@@ -1,0 +1,10 @@
+com\mycompany\abstractfactory_ejercicio3\PayPalTransactionLogger.class
+com\mycompany\abstractfactory_ejercicio3\PayPaylPaymentGateway.class
+com\mycompany\abstractfactory_ejercicio3\AbstractFactory_Ejercicio3.class
+com\mycompany\abstractfactory_ejercicio3\IAbstractFactory.class
+com\mycompany\abstractfactory_ejercicio3\PayPalFactory.class
+com\mycompany\abstractfactory_ejercicio3\StripeFactory.class
+com\mycompany\abstractfactory_ejercicio3\IPaymentGateway.class
+com\mycompany\abstractfactory_ejercicio3\StripeTransactionLogger.class
+com\mycompany\abstractfactory_ejercicio3\ITransactionLogger.class
+com\mycompany\abstractfactory_ejercicio3\StripePaymentGateway.class

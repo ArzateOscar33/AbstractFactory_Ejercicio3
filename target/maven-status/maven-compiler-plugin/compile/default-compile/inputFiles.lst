@@ -1,0 +1,10 @@
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\AbstractFactory_Ejercicio3.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\StripePaymentGateway.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\IAbstractFactory.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\ITransactionLogger.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\IPaymentGateway.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\StripeFactory.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\PayPalTransactionLogger.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\PayPalFactory.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\PayPaylPaymentGateway.java
+C:\Users\Arzate\Documents\NetBeansProjects\AbstractFactory_Ejercicio3\src\main\java\com\mycompany\abstractfactory_ejercicio3\StripeTransactionLogger.java
